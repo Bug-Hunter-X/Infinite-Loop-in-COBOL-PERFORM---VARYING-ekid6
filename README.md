@@ -1,0 +1,1 @@
+This repository contains a COBOL program demonstrating a potential infinite loop within a PERFORM...VARYING statement. The program intends to iterate and print a value when the counter exceeds 50, but fails to handle the case where the condition is never met. The solution provides a corrected version with proper termination of the loop.
